@@ -1,0 +1,10 @@
+{
+  "name": "GAC 2026 Field Guide",
+  "short_name": "GAC 2026",
+  "start_url": "./#now",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#17313B",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
